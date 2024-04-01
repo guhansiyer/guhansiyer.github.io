@@ -1,21 +1,16 @@
 baseUR: https://guhaniyer.com
 languageCode: en-us
-title: guhan iyer
+title: Guhan Iyer
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "~ % cat home_page.md"
     Content: >
-     - Hello! I'm Guhan, a first year Computer Engineering student at the University of Waterloo.
-     
-     -
-
-     - Right now, I'm an incoming Systems Software Engineering Intern at NCR Voyix. I'm also a firmware developer on the student design team UW Orbital. 
+     - Hello! I'm Guhan, a first year Computer Engineering student at the University of Waterloo. I'm also a firmware developer on the student design team UW Orbital. 
 
      -
      
-     - I'm primarily interested in firmware development and embedded systems, but I'm trying to learn more about whatever interests me. Right now, it's digital hardware and real-time operating systems. 
+     - I'm primarily interested in firmware development and embedded systems, but I'm trying to learn more about whatever interests me. Right now, that's digital hardware and real-time operating systems. 
 
      -
 
