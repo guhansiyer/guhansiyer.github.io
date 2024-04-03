@@ -13,7 +13,8 @@
       <link>//localhost:1313/posts/first-post/</link>
       <pubDate>Sat, 30 Mar 2024 22:58:05 -0400</pubDate>
       <guid>//localhost:1313/posts/first-post/</guid>
-      <description></description>
+      <description>If you thought the nine lines on the front page were interesting.
+Lorem ipsum dolor sic amet.</description>
     </item>
   </channel>
 </rss>
