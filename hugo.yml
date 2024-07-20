@@ -6,15 +6,15 @@ theme: PaperMod
 params:
   homeInfoParams:
     Content: >
-     - Hi! I'm Guhan, a first year Computer Engineering student at the University of Waterloo. I'm also a firmware developer on the student design team UW Orbital. 
+     - Hi! I'm Guhan, a first year Computer Engineering student at the University of Waterloo. I'm a firmware developer on the student design team UW Orbital, and a Systems SWE Intern at NCR Voyix. 
 
      -
      
-     - I'm primarily interested in firmware development and embedded systems, but I'm trying to learn more about whatever interests me. Right now, that's digital hardware and real-time operating systems. 
+     - I'm primarily interested in firmware development and embedded systems, but I'm trying to learn more about whatever interests me. I'm currently learning about Scala, Verilog, and digital hardware. 
 
      -
 
-     - Outside of tech, I'm a history, trivia, and music nerd. I've always had a deep passion for the humanities and do my best to enrich it. 
+     - Outside of tech, I love history, trivia and music. I've always had a deep passion for the humanities and art, and I do my best to enrich it. 
 
      -
 
@@ -43,6 +43,6 @@ menu:
   main:
     - identifier: resume
       name: resume
-      url: /resume.pdf
+      url: /resume-website.pdf
       weight: "20"
      

@@ -6,15 +6,14 @@
     <description>Recent content on Guhan Iyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2024 22:58:05 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another introduction</title>
       <link>//localhost:1313/posts/first-post/</link>
-      <pubDate>Sat, 30 Mar 2024 22:58:05 -0400</pubDate>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/first-post/</guid>
-      <description>If you thought the nine lines on the front page were interesting.
-Lorem ipsum dolor sic amet.</description>
+      <description>If you thougt the nine lines on the front page were interesting.</description>
     </item>
   </channel>
 </rss>
