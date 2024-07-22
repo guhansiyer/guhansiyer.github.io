@@ -1,6 +1,6 @@
 +++
 title = 'Another introduction'
-date = 2024-07-20
+date = 2024-03-31
 draft = false
 summary = 'If you thougt the nine lines on the front page were interesting.'
 +++
@@ -15,7 +15,15 @@ I'm a Canadian computer engineering student that likes to wonder what things wou
 
 This is me in first year wearing a banana costume:
 
-![me](/images/first-post/me.png)
+![me](/images/first-post/me.png)  
+
+I specifically mentioned history, trivia and music on my home page. I've had a obsession with trivia since I was very young. I'll never stop being proud of being able to name all the flags of the world when I was five.  
+
+More recently in my life, I've become quite attached to music. I believe music is the greatest form of media. My favourite artists, songs and albums have become integral to who I am.  
+
+Here is my Topster, as of July 20:
+
+![topster](/images/first-post/topster.png)  
 
 > What is all this?
 
