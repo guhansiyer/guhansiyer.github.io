@@ -1,8 +1,8 @@
 +++
-title = 'Another introduction'
+title = 'Another Introduction'
 date = 2024-03-31
 draft = false
-summary = 'If you thougt the nine lines on the front page were interesting.'
+summary = 'If you thought the nine lines on the front page were interesting.'
 +++
 
 I've never been good at writing about myself; I always either leave out or say too much.  
@@ -37,4 +37,4 @@ I don't plan on using this in the same way other people would use their personal
 
 Mostly media, but generally, whatever I feel like talking about. Could be recent events in my life, could be talking about some project I've undertaken. But I want all the options.  
 
-Hopefully that was a good enough introduction. Regardless, welcome.  
+Hopefully that was a good introduction. Regardless, welcome.
