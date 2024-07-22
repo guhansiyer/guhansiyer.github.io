@@ -43,7 +43,7 @@ There is a well known quote from Nietzsche that may best encompass the thesis of
 
 The conclusion of a story is perhaps the most important aspect. In most narratives, a lacking ending is detrimental to the whole, but a great one is perennial.
 
-*Mortal Man*concludes the long poem that narrates *To Pimp A Butterfly* and resolves the album as a whole through its central influence: Tupac Shakur. *DUCKWORTH.* tells the story of a chance encounter that ultimately led to the career of Kendrick.
+*Mortal Man* concludes the long poem that narrates *To Pimp A Butterfly* and resolves the album as a whole through its central influence: Tupac Shakur. *DUCKWORTH.* tells the story of a chance encounter that ultimately led to the career of Kendrick.
 
 Ultimately, there's a lot of value in a concluding track. In the case of *Mr. Morale*, there are two that can be examined: *Mirror* and *The Heart Part 5*. *Mirror* was the final track on release, while *The Heart Part 5* was released as a part of *The Heart* series a week prior, and was later added as the 19th and final track.
 
