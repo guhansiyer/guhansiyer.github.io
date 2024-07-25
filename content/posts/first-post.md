@@ -21,7 +21,7 @@ I specifically mentioned history, trivia and music on my home page. I've had a o
 
 More recently in my life, I've become quite attached to music. I believe music is the greatest form of media. My favourite artists, songs and albums have become integral to who I am.  
 
-If you're interested: here's my Topster:
+If you're interested, here's my Topster:
 
 ![topster](/images/first-post/topster.png)  
 
