@@ -56,11 +56,11 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
 
 * [*Ants From Up There*: Black Country, New Road](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd?si=040500d5914b400f) (9.3)
     * Top 3: Basketball Shoes, Good Will Hunting, The Place Where He Inserted The Blade
-    * Core idea(s): Examining co-dependence and the harm it places on both parties.
+    * Core idea(s): Examining co-dependence and the harm it does on both parties.
 
 * [*IGOR*: Tyler, the Creator](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE?si=b8c602e4ed1448af) (9.2)
     * Top 3: I THINK, GONE GONE / THANK YOU, WHAT'S GOOD
-    * Core idea(s): The undesirable ending of the classic love story.
+    * Core idea(s): The bad ending of the classic love story.
 
 * [*good kid, m.A.A.d city*: Kendrick Lamar](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1?si=c4cfa88dfd914d87) (9.2)
     * Top 3: Sing About Me, I'm Dying Of Thirst, Swimming Pools (Drank), m.A.A.d city
@@ -72,7 +72,25 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
 
 ## 8: EXCELLENT
 Overall great albums. They are strong in a variety of facets such as song selection, lyrics, and production, but are often lacking to a moderate extent in other aspects, which hold it back in a greater way than more exceptional albums.
+* [*I LAY DOWN MY LIFE FOR YOU*: JPEGMAFIA](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2?si=d4841223b0954f3b) (8.4)
+    * Top 3: either on or off the drugs, don't rely on other men, i recovered from this
+    * Core idea(s): Laying a blank slate; reconciling with yourself.
 
+* [*DAMN.*: Kendrick Lamar](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=8e1e0eaa437446cb) (8.3)
+    * Top 3: XXX, FEAR, DUCKWORTH
+    * Core idea(s): Man vs. supernatural; Kendrick vs. the intricacies of life.
+
+* [*4:44*: Jay-Z](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv?si=gipxqHmxRIKc0WjNrZjazQ) (8.2)
+    * Top 3: Legacy, The Story Of O.J., 4:44
+    * Core idea(s): Repentance; seeking salvation and absolution.
+
+* [*BRAT*: Charli xcx](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=r8Y3ftXHTx-lF03_-IQe6w) (8.2)
+    * Top 3: Girl, so confusing, Sympathy is a knife, So I
+    * Core idea(s): Exploring vulnerability; meta-analysis of pop as a genre. 
+
+* [*808s & Heartbreak*: Kanye West](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU?si=3eb995983f1649ed) (8.1)
+    * Top 3: Street Lights, Heartless/Love Lockdown, Welcome To Heartbreak
+    * Core idea(s): Grief and loss; stasis.
 
 
 ## 7: GOOD
@@ -99,7 +117,7 @@ These albums are almost completely unremarkable. What holds them back from being
 ## 0: APPALLING
 There is nothing to be found. No trace of artistry or even an attempt at it. This is the lowest point in media.
 
-## Unlistened
+## Unlistened or Unreviewed
 * *Modal Soul*: Nujabes
 * *Vaudeville Villan*: Viktor Vaughn
 * *Tetsuo & Youth*: Lupe Fiasco
@@ -143,3 +161,8 @@ There is nothing to be found. No trace of artistry or even an attempt at it. Thi
 * *For The First Time*: Black Country, New Road
 * *Blue Rev*: Alvvays
 * *Big Fish Theory*: Vince Staples
+* *VULTURES 1*: ¥$
+* *VULTURES 2*: ¥$
+* *After The Magic*: Parannoul
+* *Sky Hundred*: Parannoul
+* *The Rise and Fall of a Midwest Princess*: Chappell Roan
