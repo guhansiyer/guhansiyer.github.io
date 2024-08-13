@@ -68,17 +68,32 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
 
 * [*ye*: Kanye West](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe?si=4c96176a9c764af6) (9.1)
     * Top 3: Ghost Town, No Mistakes, Violent Crimes
-    * Core idea(s): Bipolarity and mental health; a child in an adult's body-"We're still the kids we used to be."
+    * Core idea(s): Bipolarity and mental health; a child in an adult's body, "We're still the kids we used to be."
 
 ## 8: EXCELLENT
 Overall great albums. They are strong in a variety of facets such as song selection, lyrics, and production, but are often lacking to a moderate extent in other aspects, which hold it back in a greater way than more exceptional albums.
+* [*Rodeo*: Travis Scott](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=133c8bec5944456f) (8.7)
+    * Top 3: Nightcrawler, Maria I'm Drunk, Pray 4 Love
+    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive?" 
+
+* [*The Money Store*: Death Grips](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a?si=ac49c6432fd249f7) (8.6)
+    * Top 3: Hacker, Punk Weight, Get Got
+    * Core idea(s): Societal disarray. 
+
+* [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (8.6)
+    * Top 3: Kumomi, Beat laments the world, Blessing it -remix
+
+* [*House Of Balloons*: The Weeknd](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd?si=74bb0342e4c040e7) (8.5)
+    * Top 3: House of Balloons / Glass Table Girls, The Morning, High For This
+    * Core idea(s): Lust; over-indulgence.
+
 * [*I LAY DOWN MY LIFE FOR YOU*: JPEGMAFIA](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2?si=d4841223b0954f3b) (8.4)
     * Top 3: either on or off the drugs, don't rely on other men, i recovered from this
     * Core idea(s): Laying a blank slate; reconciling with yourself.
 
 * [*DAMN.*: Kendrick Lamar](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=8e1e0eaa437446cb) (8.3)
     * Top 3: XXX, FEAR, DUCKWORTH
-    * Core idea(s): Man vs. supernatural; Kendrick vs. the intricacies of life.
+    * Core idea(s): Man vs. supernatural, Kendrick vs. the intricacies of life.
 
 * [*4:44*: Jay-Z](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv?si=gipxqHmxRIKc0WjNrZjazQ) (8.2)
     * Top 3: Legacy, The Story Of O.J., 4:44
@@ -86,18 +101,28 @@ Overall great albums. They are strong in a variety of facets such as song select
 
 * [*BRAT*: Charli xcx](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=r8Y3ftXHTx-lF03_-IQe6w) (8.2)
     * Top 3: Girl, so confusing, Sympathy is a knife, So I
-    * Core idea(s): Exploring vulnerability; meta-analysis of pop as a genre. 
+    * Core idea(s): Exploring vulnerability; meta-analysis of pop as a genre.
 
 * [*808s & Heartbreak*: Kanye West](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU?si=3eb995983f1649ed) (8.1)
     * Top 3: Street Lights, Heartless/Love Lockdown, Welcome To Heartbreak
     * Core idea(s): Grief and loss; stasis.
 
-
+* [*Windswept Adan*: Ichiko Aoba](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB?si=a1306a4dc72c4b8f) (8.0) 
+    * Top 3: Dawn In The Adan, Parfum d'étoile, Porcelain
+    * Core idea(s): The soundtrack to an imaginary film, "There were no words on the island."
+ 
 ## 7: GOOD
 A definitively good album, that is great in all aspects as previously described. However, several factors hold these albums back from surpassing this status, such as occasionally lacking production, often unsubstantial lyrics, etc.
 
+* [*UTOPIA*: Travis Scott](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ?si=8003aef7627645ca) (7.0)
+    * Top 3: MODERN JAM, HYAENA, MY EYES
+    * Core idea(s): The pursuit of perfection.
+
 ## 6: SATISFACTORY
 These albums are middling. They may be great in some aspects but quite lacking in others, thus holding them back from being considered definitively 'good'.
+
+* [*Because The Internet*: Childish Gambino](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr?si=qw3zGr-dR6CYyQdZczfSPg) (6.7)
+    * Top 3: 3005, Telegraph Ave.("Oakland" by Lloyd), Flight of the Navigator
 
 ## 5: AVERAGE
 By all measures, these albums are simply average. They aren't terrible at what they seek out to do, but aren't very good at it either.
