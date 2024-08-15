@@ -21,7 +21,7 @@ I used to host this list in my iPhone notes app, where I had a 100-point scale. 
 ## 10: BENCHMARKS
 These albums are the pinnacle. They are the standard to which I compare other media. They show little to no flaws in their art in all aspects (song selection, lyrics, production, themes/stories, structure, etc.)
 * [*KIDS SEE GHOSTS*: KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV?si=FYdf5OmmTZ6nVBHeNWH8Ow)
-    * Top 3: Reborn, Cudi Montage, Freeee (Ghost Town Pt. 2)
+    * Top 3: Reborn, Cudi Montage, Fire
     * Core idea(s): "In the midst of winter, I found, within me, an invincible summer"; finding solace in madness.
 
 * [*The Life Of Pablo*: Kanye West](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1?si=-rw1LbjDQYuSzPS1wyQUeQ)
@@ -39,7 +39,7 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
     * Core idea(s): Man vs. self, Kendrick vs. his internalized guilt and trauma; Nietzsche keys quote.
 
 * [*Blonde*: Frank Ocean](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf?si=98e3b909a18841b9) (9.7)
-    * Top 3: Self Control, White Ferrari, Siegfried
+    * Top 3: Self Control, White Ferrari, Pink & White
     * Core idea(s): Duality; "How far have we come and how far can we go?"
 
 * [*To Pimp A Butterfly*: Kendrick Lamar](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP?si=bed9ea5ca9f94b98) (9.5)
@@ -70,22 +70,39 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
     * Top 3: Ghost Town, No Mistakes, Violent Crimes
     * Core idea(s): Bipolarity and mental health; a child in an adult's body, "We're still the kids we used to be."
 
+* [*By The Time I Get To Phoenix*: Injury Reserve](https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2?si=4ca39bedba464eb2) (9.0)
+    * Top 3: Superman That, Knees, Top Picks For You
+    * Core idea(s): How the Kübler-Ross model plays out.
+
 ## 8: EXCELLENT
 Overall great albums. They are strong in a variety of facets such as song selection, lyrics, and production, but are often lacking to a moderate extent in other aspects, which hold it back in a greater way than more exceptional albums.
+* [*E•MO•TION*: Carly Rae Jepsen](https://open.spotify.com/album/0b92PAnqF1qa5fdbAu5ma7?si=eM4mUf4RQS-hsDoyY0NIOg) (8.9)
+    * Top 3: Run Away With Me, Your Type, E•mo•tion
+
 * [*Rodeo*: Travis Scott](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=133c8bec5944456f) (8.7)
     * Top 3: Nightcrawler, Maria I'm Drunk, Pray 4 Love
-    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive?" 
+    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive the rodeo?" 
 
 * [*The Money Store*: Death Grips](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a?si=ac49c6432fd249f7) (8.6)
     * Top 3: Hacker, Punk Weight, Get Got
-    * Core idea(s): Societal disarray. 
+    * Core idea(s): Societal disarray.
+
+* [*DAYTONA*: Pusha T](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp?si=3c28273b417c41cb) (8.6)
+    * Top 3: The Games We Play, If You Know You Know, What Would Meek Do?
+    * Core idea(s): "The luxury of time."
 
 * [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (8.6)
     * Top 3: Kumomi, Beat laments the world, Blessing it -remix
 
+* [*The Slow Rush*: Tame Impala](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL?si=xR_G3sx0RauaoAqQLZx-wQ) (8.6)
+    * Top 3: One More Hour, Breathe Deeper, Borderline
+
 * [*House Of Balloons*: The Weeknd](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd?si=74bb0342e4c040e7) (8.5)
     * Top 3: House of Balloons / Glass Table Girls, The Morning, High For This
     * Core idea(s): Lust; over-indulgence.
+
+* [*A Brief Inquiry Into Online Relationships*: The 1975](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY?si=ca291f8cd9024144) (8.5)
+    * Top 3: Love It If We Made It, It's Not Living (If It's Not With You), I Always Wanna Die (Sometimes)
 
 * [*I LAY DOWN MY LIFE FOR YOU*: JPEGMAFIA](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2?si=d4841223b0954f3b) (8.4)
     * Top 3: either on or off the drugs, don't rely on other men, i recovered from this
@@ -113,6 +130,10 @@ Overall great albums. They are strong in a variety of facets such as song select
  
 ## 7: GOOD
 A definitively good album, that is great in all aspects as previously described. However, several factors hold these albums back from surpassing this status, such as occasionally lacking production, often unsubstantial lyrics, etc.
+
+* [*Donda*: Kanye West](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA?si=c3a51416239044a7) (7.5)
+    * Top 3: Jesus Lord, Come To Life, 24
+    * Core idea(s): Family; religion; life and death, "The celebration of life is intrinsically tied to the acceptance of loss."
 
 * [*UTOPIA*: Travis Scott](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ?si=8003aef7627645ca) (7.0)
     * Top 3: MODERN JAM, HYAENA, MY EYES
