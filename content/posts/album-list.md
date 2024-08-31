@@ -20,6 +20,7 @@ I used to host this list in my iPhone notes app, where I had a 100-point scale. 
 
 ## 10: BENCHMARKS
 These albums are the pinnacle. They are the standard to which I compare other media. They show little to no flaws in their art in all aspects (song selection, lyrics, production, themes/stories, structure, etc.)
+
 * [*KIDS SEE GHOSTS*: KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV?si=FYdf5OmmTZ6nVBHeNWH8Ow)
     * Top 3: Reborn, Cudi Montage, Fire
     * Core idea(s): "In the midst of winter, I found, within me, an invincible summer"; finding solace in madness.
@@ -28,19 +29,20 @@ These albums are the pinnacle. They are the standard to which I compare other me
     * Top 3: Saint Pablo, No More Parties In LA, Waves
     * Core idea(s): Representing Kanye as an amalgam of three Pablos-Picasso (artistry), Escobar (controversy), and Saint Paul (faith); the dichotomy of family and celebrity.
 
-* [*To See the Next Part of the Dream*: Parannoul](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO?si=dVvgpYvmTRWcunOtLB3SAQ)
-    * Top 3: Beautiful World, White Ceiling, Analog Sentimentalism
-    * Core idea(s): How do we face our shortcomings?; the dichotomy of ideal and reality.
-
 ## 9: EXCEPTIONAL
 As pieces of art, these albums are nearly immaculate. Their composition is very strong and shows a great amount of detail, depth and care in all aspects. However, a single or multitude of factors in light severity hold these albums back from perfection.
+
 * [*Mr. Morale & The Big Steppers*: Kendrick Lamar](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX?si=6b39dca916a74299) (9.8)
     * Top 3: The Heart Part 5, Mother I Sober, Savior
     * Core idea(s): Man vs. self, Kendrick vs. his internalized guilt and trauma; Nietzsche keys quote.
 
 * [*IGOR*: Tyler, the Creator](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE?si=b8c602e4ed1448af) (9.7)
-    * Top 3: I THINK, GONE GONE / THANK YOU, WHAT'S GOOD
+    * Top 3: GONE GONE / THANK YOU, I THINK, WHAT'S GOOD
     * Core idea(s): The bad ending of the classic love story.
+
+* [*To See the Next Part of the Dream*: Parannoul](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO?si=dVvgpYvmTRWcunOtLB3SAQ) (9.7)
+    * Top 3: Beautiful World, White Ceiling, Analog Sentimentalism
+    * Core idea(s): How do we face our shortcomings?; the dichotomy of ideal and reality.
 
 * [*To Pimp A Butterfly*: Kendrick Lamar](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP?si=bed9ea5ca9f94b98) (9.6)
     * Top 3: The Blacker The Berry, u, You Ain't Gotta Lie (Momma Said)
@@ -54,63 +56,55 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
     * Top 3: Runaway, POWER, Lost In The World
     * Core idea(s): Maximalism; reconciling with fame.
 
-* [*Ants From Up There*: Black Country, New Road](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd?si=040500d5914b400f) (9.3)
+* [*Ants From Up There*: Black Country, New Road](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd?si=040500d5914b400f) (9.2)
     * Top 3: Basketball Shoes, Good Will Hunting, The Place Where He Inserted The Blade
     * Core idea(s): Examining co-dependence and the harm it does on both parties.
 
-* [*good kid, m.A.A.d city*: Kendrick Lamar](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1?si=c4cfa88dfd914d87) (9.2)
-    * Top 3: Sing About Me, I'm Dying Of Thirst, Swimming Pools (Drank), m.A.A.d city
-    * Core idea(s): Man vs. world, Kendrick vs. the violence of Compton.
+## 8: EXCELLENT
+Overall great albums. They are strong in a variety of facets such as song selection, lyrics, and production, but are often lacking to a moderate extent in other aspects, which hold it back in a greater way than more exceptional albums.
 
-* [*ye*: Kanye West](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe?si=4c96176a9c764af6) (9.1)
+* [*DAMN.*: Kendrick Lamar](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=8e1e0eaa437446cb) (8.8)
+    * Top 3: XXX, FEAR, DUCKWORTH
+    * Core idea(s): Man vs. supernatural, Kendrick vs. the intricacies of life.
+
+* [*ye*: Kanye West](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe?si=4c96176a9c764af6) (8.7)
     * Top 3: Ghost Town, No Mistakes, Violent Crimes
     * Core idea(s): Bipolarity and mental health; a child in an adult's body, "We're still the kids we used to be."
 
-* [*By The Time I Get To Phoenix*: Injury Reserve](https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2?si=4ca39bedba464eb2) (9.0)
-    * Top 3: Superman That, Knees, Top Picks For You
-    * Core idea(s): How the Kübler-Ross model plays out.
-
-* [*Time 'n' Place*: Kero Kero Bonito](https://open.spotify.com/album/1FcfrAYuA1X4gXEfLNW7AB?si=8c2b3896ab8a482d) (9.0)
-    * Top 3: Only Acting, Swimming, Dear Future Self
-    * Core idea(s): Ideal vs. reality; "Life isn't what you built it up to be."
-
-## 8: EXCELLENT
-Overall great albums. They are strong in a variety of facets such as song selection, lyrics, and production, but are often lacking to a moderate extent in other aspects, which hold it back in a greater way than more exceptional albums.
-* [*E•MO•TION*: Carly Rae Jepsen](https://open.spotify.com/album/0b92PAnqF1qa5fdbAu5ma7?si=eM4mUf4RQS-hsDoyY0NIOg) (8.9)
-    * Top 3: Run Away With Me, Your Type, E•mo•tion
-
 * [*Rodeo*: Travis Scott](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=133c8bec5944456f) (8.7)
     * Top 3: Nightcrawler, Maria I'm Drunk, Pray 4 Love
-    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive/ The rodeo?" 
+    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive/ The rodeo?"
+
+* [*good kid, m.A.A.d city*: Kendrick Lamar](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1?si=c4cfa88dfd914d87) (8.6)
+    * Top 3: Sing About Me, I'm Dying Of Thirst, Swimming Pools (Drank), m.A.A.d city
+    * Core idea(s): Man vs. world, Kendrick vs. the violence of Compton. 
 
 * [*The Money Store*: Death Grips](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a?si=ac49c6432fd249f7) (8.6)
     * Top 3: Hacker, Punk Weight, Get Got
     * Core idea(s): Societal disarray.
 
+* [*E•MO•TION*: Carly Rae Jepsen](https://open.spotify.com/album/0b92PAnqF1qa5fdbAu5ma7?si=eM4mUf4RQS-hsDoyY0NIOg) (8.6)
+    * Top 3: Run Away With Me, Your Type, E•mo•tion
+
 * [*DAYTONA*: Pusha T](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp?si=3c28273b417c41cb) (8.6)
     * Top 3: The Games We Play, If You Know You Know, What Would Meek Do?
     * Core idea(s): "The luxury of time."
 
-* [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (8.6)
-    * Top 3: Kumomi, Beat laments the world, Blessing it -remix
-
-* [*The Slow Rush*: Tame Impala](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL?si=xR_G3sx0RauaoAqQLZx-wQ) (8.6)
-    * Top 3: One More Hour, Breathe Deeper, Borderline
+* [*808s & Heartbreak*: Kanye West](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU?si=3eb995983f1649ed) (8.5)
+    * Top 3: Street Lights, Heartless/Love Lockdown, Welcome To Heartbreak
+    * Core idea(s): Grief and loss; stasis.
 
 * [*House Of Balloons*: The Weeknd](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd?si=74bb0342e4c040e7) (8.5)
     * Top 3: House of Balloons / Glass Table Girls, The Morning, High For This
     * Core idea(s): Lust; over-indulgence.
 
-* [*A Brief Inquiry Into Online Relationships*: The 1975](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY?si=ca291f8cd9024144) (8.5)
-    * Top 3: Love It If We Made It, It's Not Living (If It's Not With You), I Always Wanna Die (Sometimes)
-
 * [*I LAY DOWN MY LIFE FOR YOU*: JPEGMAFIA](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2?si=d4841223b0954f3b) (8.4)
     * Top 3: either on or off the drugs, don't rely on other men, i recovered from this
     * Core idea(s): Laying a blank slate; reconciling with yourself.
 
-* [*DAMN.*: Kendrick Lamar](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=8e1e0eaa437446cb) (8.3)
-    * Top 3: XXX, FEAR, DUCKWORTH
-    * Core idea(s): Man vs. supernatural, Kendrick vs. the intricacies of life.
+* [*Time 'n' Place*: Kero Kero Bonito](https://open.spotify.com/album/1FcfrAYuA1X4gXEfLNW7AB?si=8c2b3896ab8a482d) (8.3)
+    * Top 3: Only Acting, Swimming, Dear Future Self
+    * Core idea(s): Ideal vs. reality; "Life isn't what you built it up to be."
 
 * [*4:44*: Jay-Z](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv?si=gipxqHmxRIKc0WjNrZjazQ) (8.2)
     * Top 3: Legacy, The Story Of O.J., 4:44
@@ -120,24 +114,33 @@ Overall great albums. They are strong in a variety of facets such as song select
     * Top 3: Girl, so confusing, Sympathy is a knife, So I
     * Core idea(s): Exploring vulnerability; meta-analysis of pop as a genre.
 
-* [*808s & Heartbreak*: Kanye West](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU?si=3eb995983f1649ed) (8.1)
-    * Top 3: Street Lights, Heartless/Love Lockdown, Welcome To Heartbreak
-    * Core idea(s): Grief and loss; stasis.
-
-* [*Windswept Adan*: Ichiko Aoba](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB?si=a1306a4dc72c4b8f) (8.0) 
-    * Top 3: Dawn In The Adan, Parfum d'étoile, Porcelain
-    * Core idea(s): The soundtrack to an imaginary film, "There were no words on the island."
- 
 ## 7: GOOD
 A definitively good album, that is great in all aspects as previously described. However, several factors hold these albums back from surpassing this status, such as occasionally lacking production, often unsubstantial lyrics, etc.
 
-* [*Donda*: Kanye West](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA?si=c3a51416239044a7) (7.5)
+* [*A Brief Inquiry Into Online Relationships*: The 1975](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY?si=ca291f8cd9024144) (7.9)
+    * Top 3: Love It If We Made It, It's Not Living (If It's Not With You), I Always Wanna Die (Sometimes)
+
+* [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (7.7)
+    * Top 3: Kumomi, Beat laments the world, Blessing it -remix
+
+* [*By The Time I Get To Phoenix*: Injury Reserve](https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2?si=4ca39bedba464eb2) (7.6)
+    * Top 3: Superman That, Knees, Top Picks For You
+    * Core idea(s): How the Kübler-Ross model plays out.
+
+* [*Windswept Adan*: Ichiko Aoba](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB?si=a1306a4dc72c4b8f) (7.6) 
+    * Top 3: Dawn In The Adan, Parfum d'étoile, Porcelain
+    * Core idea(s): The soundtrack to an imaginary film, "There were no words on the island."
+
+* [*Donda*: Kanye West](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA?si=c3a51416239044a7) (7.4)
     * Top 3: Jesus Lord, Come To Life, 24
     * Core idea(s): Family; religion; life and death, "The celebration of life is intrinsically tied to the acceptance of loss."
 
-* [*UTOPIA*: Travis Scott](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ?si=8003aef7627645ca) (7.0)
+* [*UTOPIA*: Travis Scott](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ?si=8003aef7627645ca) (7.2)
     * Top 3: MODERN JAM, HYAENA, MY EYES
     * Core idea(s): The pursuit of perfection.
+
+* [*The Slow Rush*: Tame Impala](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL?si=xR_G3sx0RauaoAqQLZx-wQ) (7.1)
+    * Top 3: One More Hour, Breathe Deeper, Borderline
 
 ## 6: SATISFACTORY
 These albums are middling. They may be great in some aspects but quite lacking in others, thus holding them back from being considered definitively 'good'.
