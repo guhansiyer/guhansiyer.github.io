@@ -6,11 +6,11 @@ theme: PaperMod
 params:
   homeInfoParams:
     Content: >
-     - Hi! I'm Guhan, a second year Computer Engineering student at the University of Waterloo. I'm a firmware developer on the student design team UW Orbital, and a Systems SWE Intern at NCR Voyix. 
+     - Hi! I'm Guhan, a second year Computer Engineering student at the University of Waterloo. Recently, I just finished my first co-op term at NCR Voyix as a Systems Software Engineer. 
 
      -
      
-     - I'm primarily interested in firmware development and embedded systems, but I'm trying to learn more about whatever interests me. I'm currently learning about Scala, Verilog, and digital hardware. 
+     - I'm primarily interested in firmware development and embedded systems, but I'm trying to learn more about whatever interests me. I'm currently learning about Scala and compiler design to create a Verliog parser.
 
      -
 

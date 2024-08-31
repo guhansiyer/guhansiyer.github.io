@@ -38,17 +38,17 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
     * Top 3: The Heart Part 5, Mother I Sober, Savior
     * Core idea(s): Man vs. self, Kendrick vs. his internalized guilt and trauma; Nietzsche keys quote.
 
-* [*Blonde*: Frank Ocean](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf?si=98e3b909a18841b9) (9.7)
-    * Top 3: Self Control, White Ferrari, Pink & White
-    * Core idea(s): Duality; "How far have we come and how far can we go?"
+* [*IGOR*: Tyler, the Creator](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE?si=b8c602e4ed1448af) (9.7)
+    * Top 3: I THINK, GONE GONE / THANK YOU, WHAT'S GOOD
+    * Core idea(s): The bad ending of the classic love story.
 
-* [*To Pimp A Butterfly*: Kendrick Lamar](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP?si=bed9ea5ca9f94b98) (9.5)
+* [*To Pimp A Butterfly*: Kendrick Lamar](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP?si=bed9ea5ca9f94b98) (9.6)
     * Top 3: The Blacker The Berry, u, You Ain't Gotta Lie (Momma Said)
     * Core idea(s): Man vs. society, Kendrick vs. institutionalized and systemic racism; the pressures of leadership; "Fulfillment as a leader."
 
-* [*Time 'n' Place*: Kero Kero Bonito](https://open.spotify.com/album/1FcfrAYuA1X4gXEfLNW7AB?si=8c2b3896ab8a482d) (9.5)
-    * Top 3: Only Acting, Swimming, Dear Future Self
-    * Core idea(s): Ideal vs. reality; "Life isn't what you built it up to be."
+* [*Blonde*: Frank Ocean](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf?si=98e3b909a18841b9) (9.5)
+    * Top 3: Self Control, White Ferrari, Pink & White
+    * Core idea(s): Duality; "How far have we come and how far can we go?"
 
 * [*My Beautiful Dark Twisted Fantasy*: Kanye West](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv?si=af694557e66e483a) (9.4)
     * Top 3: Runaway, POWER, Lost In The World
@@ -57,10 +57,6 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
 * [*Ants From Up There*: Black Country, New Road](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd?si=040500d5914b400f) (9.3)
     * Top 3: Basketball Shoes, Good Will Hunting, The Place Where He Inserted The Blade
     * Core idea(s): Examining co-dependence and the harm it does on both parties.
-
-* [*IGOR*: Tyler, the Creator](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE?si=b8c602e4ed1448af) (9.2)
-    * Top 3: I THINK, GONE GONE / THANK YOU, WHAT'S GOOD
-    * Core idea(s): The bad ending of the classic love story.
 
 * [*good kid, m.A.A.d city*: Kendrick Lamar](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1?si=c4cfa88dfd914d87) (9.2)
     * Top 3: Sing About Me, I'm Dying Of Thirst, Swimming Pools (Drank), m.A.A.d city
@@ -74,6 +70,10 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
     * Top 3: Superman That, Knees, Top Picks For You
     * Core idea(s): How the Kübler-Ross model plays out.
 
+* [*Time 'n' Place*: Kero Kero Bonito](https://open.spotify.com/album/1FcfrAYuA1X4gXEfLNW7AB?si=8c2b3896ab8a482d) (9.0)
+    * Top 3: Only Acting, Swimming, Dear Future Self
+    * Core idea(s): Ideal vs. reality; "Life isn't what you built it up to be."
+
 ## 8: EXCELLENT
 Overall great albums. They are strong in a variety of facets such as song selection, lyrics, and production, but are often lacking to a moderate extent in other aspects, which hold it back in a greater way than more exceptional albums.
 * [*E•MO•TION*: Carly Rae Jepsen](https://open.spotify.com/album/0b92PAnqF1qa5fdbAu5ma7?si=eM4mUf4RQS-hsDoyY0NIOg) (8.9)
@@ -81,7 +81,7 @@ Overall great albums. They are strong in a variety of facets such as song select
 
 * [*Rodeo*: Travis Scott](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=133c8bec5944456f) (8.7)
     * Top 3: Nightcrawler, Maria I'm Drunk, Pray 4 Love
-    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive the rodeo?" 
+    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive/ The rodeo?" 
 
 * [*The Money Store*: Death Grips](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a?si=ac49c6432fd249f7) (8.6)
     * Top 3: Hacker, Punk Weight, Get Got
