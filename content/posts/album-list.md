@@ -106,6 +106,7 @@ Overall great albums. They are strong in a variety of facets such as song select
     * Top 3: Only Acting, Swimming, Dear Future Self
     * Core idea(s): Ideal vs. reality; "Life isn't what you built it up to be."
 
+
 * [*4:44*: Jay-Z](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv?si=gipxqHmxRIKc0WjNrZjazQ) (8.2)
     * Top 3: Legacy, The Story Of O.J., 4:44
     * Core idea(s): Repentance; seeking salvation and absolution.
@@ -123,17 +124,17 @@ A definitively good album, that is great in all aspects as previously described.
 * [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (7.7)
     * Top 3: Kumomi, Beat laments the world, Blessing it -remix
 
+* [*Donda*: Kanye West](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA?si=c3a51416239044a7) (7.6)
+    * Top 3: Jesus Lord, Come To Life, 24
+    * Core idea(s): Family; religion; life and death, "The celebration of life is intrinsically tied to the acceptance of loss."
+
 * [*By The Time I Get To Phoenix*: Injury Reserve](https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2?si=4ca39bedba464eb2) (7.6)
     * Top 3: Superman That, Knees, Top Picks For You
     * Core idea(s): How the Kübler-Ross model plays out.
 
-* [*Windswept Adan*: Ichiko Aoba](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB?si=a1306a4dc72c4b8f) (7.6) 
+* [*Windswept Adan*: Ichiko Aoba](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB?si=a1306a4dc72c4b8f) (7.4) 
     * Top 3: Dawn In The Adan, Parfum d'étoile, Porcelain
     * Core idea(s): The soundtrack to an imaginary film, "There were no words on the island."
-
-* [*Donda*: Kanye West](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA?si=c3a51416239044a7) (7.4)
-    * Top 3: Jesus Lord, Come To Life, 24
-    * Core idea(s): Family; religion; life and death, "The celebration of life is intrinsically tied to the acceptance of loss."
 
 * [*UTOPIA*: Travis Scott](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ?si=8003aef7627645ca) (7.2)
     * Top 3: MODERN JAM, HYAENA, MY EYES
@@ -145,7 +146,11 @@ A definitively good album, that is great in all aspects as previously described.
 ## 6: SATISFACTORY
 These albums are middling. They may be great in some aspects but quite lacking in others, thus holding them back from being considered definitively 'good'.
 
-* [*Because The Internet*: Childish Gambino](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr?si=qw3zGr-dR6CYyQdZczfSPg) (6.7)
+* [*Whole Lotta Red*: Playboi Carti](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR?si=40ff7b48d1c841bd) (6.8)
+    * Top 3: Stop Breathing, F33l Lik3 Dyin, Control
+    * Core idea(s): How drugs and excess consume and destroy, "the *Yeezus* of trap."   
+
+* [*Because The Internet*: Childish Gambino](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr?si=qw3zGr-dR6CYyQdZczfSPg) (6.5)
     * Top 3: 3005, Telegraph Ave.("Oakland" by Lloyd), Flight of the Navigator
 
 ## 5: AVERAGE
