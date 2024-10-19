@@ -34,7 +34,7 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
 
 * [*Mr. Morale & The Big Steppers*: Kendrick Lamar](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX?si=6b39dca916a74299) (9.8)
     * Top 3: The Heart Part 5, Mother I Sober, Savior
-    * Core idea(s): Man vs. self, Kendrick vs. his internalized guilt and trauma; Nietzsche keys quote.
+    * Core idea(s): Man vs. self, Kendrick vs. his internalized guilt and trauma; Nietzsche "keys to your chains" quote.
 
 * [*IGOR*: Tyler, the Creator](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE?si=b8c602e4ed1448af) (9.7)
     * Top 3: GONE GONE / THANK YOU, I THINK, WHAT'S GOOD
@@ -84,7 +84,7 @@ Overall great albums. They are strong in a variety of facets such as song select
     * Core idea(s): Societal disarray.
 
 * [*E•MO•TION*: Carly Rae Jepsen](https://open.spotify.com/album/0b92PAnqF1qa5fdbAu5ma7?si=eM4mUf4RQS-hsDoyY0NIOg) (8.6)
-    * Top 3: Run Away With Me, Your Type, E•mo•tion
+    * Top 3: Run Away With Me, Your Type, E•mo•tion/All That
 
 * [*DAYTONA*: Pusha T](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp?si=3c28273b417c41cb) (8.6)
     * Top 3: The Games We Play, If You Know You Know, What Would Meek Do?
@@ -106,13 +106,12 @@ Overall great albums. They are strong in a variety of facets such as song select
     * Top 3: Only Acting, Swimming, Dear Future Self
     * Core idea(s): Ideal vs. reality; "Life isn't what you built it up to be."
 
-
 * [*4:44*: Jay-Z](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv?si=gipxqHmxRIKc0WjNrZjazQ) (8.2)
     * Top 3: Legacy, The Story Of O.J., 4:44
     * Core idea(s): Repentance; seeking salvation and absolution.
 
 * [*BRAT*: Charli xcx](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=r8Y3ftXHTx-lF03_-IQe6w) (8.2)
-    * Top 3: Girl, so confusing, Sympathy is a knife, So I
+    * Top 3: Sympathy is a knife, Everything is romantic, Von dutch
     * Core idea(s): Exploring vulnerability; meta-analysis of pop as a genre.
 
 ## 7: GOOD
@@ -120,6 +119,10 @@ A definitively good album, that is great in all aspects as previously described.
 
 * [*A Brief Inquiry Into Online Relationships*: The 1975](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY?si=ca291f8cd9024144) (7.9)
     * Top 3: Love It If We Made It, It's Not Living (If It's Not With You), I Always Wanna Die (Sometimes)
+
+* [*Brat and it's' completely different but also still brat*: Charli xcx](https://open.spotify.com/album/36P07bti6xD99o7S1acmin?si=flyOs4sFRz6ekaqCISAIfw) (7.8)
+    * Top 3: Girl so confusing featuring lorde, Sympathy is a knife featuring ariana grande, Mean girls featuring julian casablancas
+    * Core idea(s): A reflection on *BRAT*; the isolation of fame.
 
 * [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (7.7)
     * Top 3: Kumomi, Beat laments the world, Blessing it -remix
