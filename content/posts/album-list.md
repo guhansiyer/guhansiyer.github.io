@@ -120,7 +120,7 @@ A definitively good album, that is great in all aspects as previously described.
 * [*A Brief Inquiry Into Online Relationships*: The 1975](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY?si=ca291f8cd9024144) (7.9)
     * Top 3: Love It If We Made It, It's Not Living (If It's Not With You), I Always Wanna Die (Sometimes)
 
-* [*Brat and it's' completely different but also still brat*: Charli xcx](https://open.spotify.com/album/36P07bti6xD99o7S1acmin?si=flyOs4sFRz6ekaqCISAIfw) (7.8)
+* [*Brat and it's completely different but also still brat*: Charli xcx](https://open.spotify.com/album/36P07bti6xD99o7S1acmin?si=flyOs4sFRz6ekaqCISAIfw) (7.8)
     * Top 3: Girl so confusing featuring lorde, Sympathy is a knife featuring ariana grande, Mean girls featuring julian casablancas
     * Core idea(s): A reflection on *BRAT*; the isolation of fame.
 
@@ -223,3 +223,6 @@ There is nothing to be found. No trace of artistry or even an attempt at it. Thi
 * *After The Magic*: Parannoul
 * *Sky Hundred*: Parannoul
 * *The Rise and Fall of a Midwest Princess*: Chappell Roan
+* *CHROMAKOPIA*: Tyler, the Creator
+* *GNX*: Kendrick Lamar
+* *Dare Iz A Darkside*: Redman

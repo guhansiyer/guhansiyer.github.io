@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>2A: An exercise in hindsight | Guhan Iyer</title>
+<meta name="keywords" content="">
+<meta name="description" content="My experience in 2A ECE.">
+<meta name="author" content="">
+<link rel="canonical" href="//localhost:1313/posts/2a/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="//localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="//localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="//localhost:1313/posts/2a/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="//localhost:1313/" accesskey="h" title="Guhan Iyer (Alt + H)">Guhan Iyer</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="//localhost:1313/resume-website.pdf" title="resume">
+                    <span>resume</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      2A: An exercise in hindsight
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h1>
+    <div class="post-meta"><span title='2024-12-14 00:00:00 +0000 UTC'>December 14, 2024</span>
+
+</div>
+  </header> 
+  <div class="post-content"><p>6 hours ago, I wrote my final exam of my 2A term.</p>
+<p>The 2A term has always felt like the Department of ECE decided to limit test its students. Engineering, and ECE in general, has always been a meme for having some of the worst schedules that a person could devise (see the 1B schedule below), but there was just something about the 2A structure that was so uniquely soul crushing.</p>
+<p><img loading="lazy" src="/images/2A/1B.jpeg" alt="me"  />
+
+<em>The big green wall.</em></p>
+<p>For as bad as that schedule <em>looks</em>, in actuality it isn&rsquo;t terrible, because this is still first year. The only real concern is having to be conscious enough in the morning to go do your labs.</p>
+<p>In 2A, the schedule <em>looks</em> a lot nicer. But you still have 6 courses, five of which are full credit, and 3 of which have labs:</p>
+<ul>
+<li><a href="https://uwflow.com/course/ece109">ECE109</a>: Materials Chemistry</li>
+<li><a href="https://uwflow.com/course/ece204">ECE204</a>: Numerical Methods</li>
+<li><a href="https://uwflow.com/course/ece205">ECE205</a>: Advanced Calculus 1 (Differential Equations)</li>
+<li><a href="https://uwflow.com/course/ece222">ECE222</a>: Digital Computers</li>
+<li><a href="https://uwflow.com/course/ece240">ECE240</a>: Electronic Circuits</li>
+<li><a href="https://uwflow.com/course/ece250">ECE250</a>: Algorithms &amp; Data Structures</li>
+</ul>
+<p>How&rsquo;d it go? Well&hellip;</p>
+<h2 id="september">September<a hidden class="anchor" aria-hidden="true" href="#september">#</a></h2>
+<p>2A started rather unceremoniously. At the end of my previous term, I arranged a research assistantship with a friend of mine, which would&rsquo;ve been about developing a Verilog synthesizer in Scala. But as 1B came to a close, I fell quite short of the requirements for the URA and fell out of eligibility. This was entirely my fault; the sum of a lot of preventable mistakes, but it was a very sour note to begin the term on.</p>
+<p>As school started, so did the co-op search. I was looking to get into embedded software and systems programming this time around. My first co-op was as a systems engineer where I developed internal tools for the company&rsquo;s R&amp;D sector. When I was searching for my first co-op, I interviewed for two firmware positions and got an offer for one of them, but for certain reasons decided not to accept it.</p>
+<p>September came and went; the first co-op cycle was relatively uneventful aside from a very weird interview where my interviewer left the call for 10 out of 30 minutes. School was beginning to speed up and I was&hellip; very neglectful of it.</p>
+<h2 id="october">October<a hidden class="anchor" aria-hidden="true" href="#october">#</a></h2>
+<p>October is when the gravity of my procrastination really started to weigh on me. To begin, I couldn&rsquo;t convert that interview into an offer (although I&rsquo;m still not sure how much that&rsquo;s my fault), putting me in cycle 2. The month was characterized by a cycle:</p>
+<ol>
+<li>Have a task ahead.</li>
+<li>Feel confident about finishing it in a short time.</li>
+<li>Start the task, overrun my estimated time by 2x on the simplest part.</li>
+<li>Start tweaking until something clicks.</li>
+</ol>
+<p>On a serious note, it was during one of my 250 projects when I felt that something was off with me. It was the combination of a bunch of factors weighing on me all at once.</p>
+<p>I thought I&rsquo;d be able to get an early co-op and not have to go through the hell that is job searching during hell week. I thought I&rsquo;d be able to do a lot better with school than I did last term. I thought that I would be doing interesting research. I thought I would be a better person than I was last term.</p>
+<p>But to all of these, I was wrong. I felt, ultimately that I had let a lot of people down; primarily myself.</p>
+<p>Outside of academic life there was even more weighing down. Over my co-op term I was diagnosed with a chronic, possibly autoimmune skin disease that I had been dealing with for a year at that point. It&rsquo;s characterized by inflammed, scaly and flaky skin almost like psoriasis. At the point where I was during October, I felt like trying to treat it was futile. The pain resulting from it only increased day by day, but I had exhausted all treatment options by that point. I didn&rsquo;t like being dependent on medication even if they weren&rsquo;t addictive; it just felt like false hope to me since I knew that it would come back. Between my family doctor, dermatologist, and any sources I could get my hands on that were the slightest bit helpful, one statement was repeated by all of them: &ldquo;this is lifelong.&rdquo; It just seemed so bizzare that one day a switch flipped and suddenly my skin is trying to kill itself. I started to wonder if at this point, everything was beyond repair. So I stopped everything. Anything that had even an ounce of medication in it, I wouldn&rsquo;t use it.</p>
+<p>All of these combined into a period of severe depression, as I was entering the most stressful time of the semester. Studying for my five back-to-back midterms was, to say the least, difficult. My primary concern was ECE240; like all my classes at that point, I was not very caught up and trying desperately to do so before the midterm. Historically, 240 had some awful exams; so difficult you wonder who was meant to solve them. But this was a new professor and I had no idea if that was still the case. So, I blindly invested most of my time into this exam, as I felt reasonably better about my other courses.</p>
+<p>Exam week rolls around. I&rsquo;ll give you the day-by-day:</p>
+<ul>
+<li>Monday (240): Class consensus is that it was extremely easy (to be fair it was just like the homework we practiced with). In hindsight, it was definitely a really easy exam, but in the moment I felt like I got a 20. I spent the rest of the day trying to block it out of my mind and study for my next midterm. When I got home I had a breakdown over the exam.</li>
+<li>Tuesday (222): VERY long but I felt way better about how I did. Spent the majority of that day studying for my <strong>next</strong> midterm since 222 was at night.</li>
+<li>Wednesday (204): Pretty standard but I could&rsquo;ve studied more.</li>
+<li>Thursday (250): I did a lot of prep and I felt prepared for the entire exam, save this one design question. Felt like this was going to be my best midterm.</li>
+<li>Friday (205): This was my birthday (October 25). I felt like it went similar to 204; fine but I should&rsquo;ve studied more. In the afternoon I went rock climbing with some friends and got back our 204 grade in the middle of that. My result? 45. I was a little adamant that there had to be a mistake, but felt deep down that there wasn&rsquo;t one. I tried to block that out, but my mind kept coming back to it. That ruined my birthday a little bit.</li>
+</ul>
+<p>That weekend I went to a concert for Wave to Earth, where I got my 222 grade in the middle of it: 59.</p>
+<p>Tuesday, coming to school, got back 250: 62.</p>
+<p>That week, our 240 prof handed out the exams in class: 72.</p>
+<p>Next week, 205 got returned: 61.</p>
+<h3 id="post-midterm-reflections">Post-midterm reflections<a hidden class="anchor" aria-hidden="true" href="#post-midterm-reflections">#</a></h3>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="//localhost:1313/">Guhan Iyer</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
