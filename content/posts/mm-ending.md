@@ -1,8 +1,8 @@
 +++
-title = 'Two Songs'
+title = 'Two songs'
 date = 2024-07-22
 draft = false
-summary = 'Mr. Morale & The Big Steppers is the most important album in the discography of Kendrick Lamar. What song concludes it the best?'
+summary = 'How do we best conclude *Mr. Morale?*'
 +++
 
 I can tell you the exact moment I fell in love with music.

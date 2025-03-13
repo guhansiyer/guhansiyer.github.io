@@ -6,35 +6,35 @@
     <description>Recent content on Guhan Iyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2A: An exercise in hindsight</title>
-      <link>//localhost:1313/posts/2a/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2a/</guid>
-      <description>My experience in 2A ECE.</description>
+      <title>Another introduction</title>
+      <link>//localhost:1313/posts/first-post/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/first-post/</guid>
+      <description>If you thought the nine lines on the front page were interesting.</description>
     </item>
     <item>
-      <title>The List</title>
+      <title>The rankings</title>
       <link>//localhost:1313/posts/album-list/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/album-list/</guid>
       <description>All of the albums I listened to, or plan to listen to, ranked on my own scale.</description>
     </item>
     <item>
-      <title>Two Songs</title>
+      <title>Wickedness or Weakness?</title>
+      <link>//localhost:1313/posts/damn/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/damn/</guid>
+      <description>An analysis of DAMN; the 4th studio album from Kendrick Lamar.</description>
+    </item>
+    <item>
+      <title>Two songs</title>
       <link>//localhost:1313/posts/mm-ending/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/mm-ending/</guid>
-      <description>Mr. Morale &amp;amp; The Big Steppers is the most important album in the discography of Kendrick Lamar. What song concludes it the best?</description>
-    </item>
-    <item>
-      <title>Another Introduction</title>
-      <link>//localhost:1313/posts/first-post/</link>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/first-post/</guid>
-      <description>If you thought the nine lines on the front page were interesting.</description>
+      <description>How do we best conclude &lt;em&gt;Mr. Morale?&lt;/em&gt;</description>
     </item>
   </channel>
 </rss>

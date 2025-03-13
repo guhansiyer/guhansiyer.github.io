@@ -6,11 +6,11 @@ theme: PaperMod
 params:
   homeInfoParams:
     Content: >
-     - Hi! I'm Guhan, a second year Computer Engineering student at the University of Waterloo. Currently I'm in finals season, but starting January, I'll be working at Ford as a Security Software Intern.
+     - Hi! I'm Guhan, a second year Computer Engineering student at the University of Waterloo. Currently I'm working at Ford as a Security Software Intern.
 
      -
      
-     - I'm primarily interested in firmware development and embedded systems, but I'm trying to learn more about whatever interests me.
+     - I'm primarily interested in digital hardware and embedded systems, but I'm trying to learn more about whatever interests me.
 
      -
 

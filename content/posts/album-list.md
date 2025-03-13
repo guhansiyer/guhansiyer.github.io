@@ -1,8 +1,9 @@
 +++
-title = 'The List'
+title = 'The rankings'
 date = 2024-07-27
 draft = false
 summary = 'All of the albums I listened to, or plan to listen to, ranked on my own scale.'
+weight = 2
 +++
 
 This post has all of the albums I've listened to, or plan to listen to. I rate things on a 10-point scale, which I describde throughout the list. I also list off my top 3 tracks on these albums, and any notable themes/ideas I pick up from my listens. At the end is a list of all the albums I plan to listen to, which you can find [here](#unlistened).
@@ -65,11 +66,15 @@ Overall great albums. They are strong in a variety of facets such as song select
 
 * [*DAMN.*: Kendrick Lamar](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=8e1e0eaa437446cb) (8.8)
     * Top 3: XXX, FEAR, DUCKWORTH
-    * Core idea(s): Man vs. supernatural, Kendrick vs. the intricacies of life.
+    * Core idea(s): Man vs. supernatural, Kendrick vs. the butterfly effect.
 
 * [*ye*: Kanye West](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe?si=4c96176a9c764af6) (8.7)
     * Top 3: Ghost Town, No Mistakes, Violent Crimes
     * Core idea(s): Bipolarity and mental health; a child in an adult's body, "We're still the kids we used to be."
+
+* [*Pop 2*: Charli xcx](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC?si=Zb_apE8kQoOprlJLsQzXSQ) (8.7)
+    * Top 3: Backseat, Track 10, Femmebot
+    * Core idea(s): Re-inventing the conventions of pop.
 
 * [*Rodeo*: Travis Scott](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=133c8bec5944456f) (8.7)
     * Top 3: Nightcrawler, Maria I'm Drunk, Pray 4 Love
@@ -77,7 +82,7 @@ Overall great albums. They are strong in a variety of facets such as song select
 
 * [*good kid, m.A.A.d city*: Kendrick Lamar](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1?si=c4cfa88dfd914d87) (8.6)
     * Top 3: Sing About Me, I'm Dying Of Thirst, Swimming Pools (Drank), m.A.A.d city
-    * Core idea(s): Man vs. world, Kendrick vs. the violence of Compton. 
+    * Core idea(s): Man vs. world, Kendrick vs. the violence of Compton.
 
 * [*The Money Store*: Death Grips](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a?si=ac49c6432fd249f7) (8.6)
     * Top 3: Hacker, Punk Weight, Get Got
@@ -119,6 +124,10 @@ A definitively good album, that is great in all aspects as previously described.
 
 * [*A Brief Inquiry Into Online Relationships*: The 1975](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY?si=ca291f8cd9024144) (7.9)
     * Top 3: Love It If We Made It, It's Not Living (If It's Not With You), I Always Wanna Die (Sometimes)
+
+* [*GNX*: Kendrick Lamar](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW?si=064430dace81407c) (7.8)
+    * Top 3: heart pt. 6, wacced out murals, reincarnated
+    * Core idea(s): A celebration of the west coast.
 
 * [*Brat and it's completely different but also still brat*: Charli xcx](https://open.spotify.com/album/36P07bti6xD99o7S1acmin?si=flyOs4sFRz6ekaqCISAIfw) (7.8)
     * Top 3: Girl so confusing featuring lorde, Sympathy is a knife featuring ariana grande, Mean girls featuring julian casablancas
@@ -224,5 +233,6 @@ There is nothing to be found. No trace of artistry or even an attempt at it. Thi
 * *Sky Hundred*: Parannoul
 * *The Rise and Fall of a Midwest Princess*: Chappell Roan
 * *CHROMAKOPIA*: Tyler, the Creator
-* *GNX*: Kendrick Lamar
 * *Dare Iz A Darkside*: Redman
+* *Currents*: Tame Impala
+* *Lonerism*: Tame Impala

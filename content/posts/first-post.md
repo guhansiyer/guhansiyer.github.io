@@ -1,8 +1,9 @@
 +++
-title = 'Another Introduction'
+title = 'Another introduction'
 date = 2024-03-31
 draft = false
 summary = 'If you thought the nine lines on the front page were interesting.'
+weight = 1
 +++
 
 I've never been good at writing about myself; I always either leave out or say too much.  
