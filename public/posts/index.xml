@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Guhan Iyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 21:41:55 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another introduction</title>
@@ -21,6 +21,13 @@
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/album-list/</guid>
       <description>All of the albums I listened to, or plan to listen to, ranked on my own scale.</description>
+    </item>
+    <item>
+      <title>Album a Day</title>
+      <link>//localhost:1313/posts/album-a-day/</link>
+      <pubDate>Thu, 13 Mar 2025 21:41:55 -0400</pubDate>
+      <guid>//localhost:1313/posts/album-a-day/</guid>
+      <description></description>
     </item>
     <item>
       <title>Wickedness or Weakness?</title>
