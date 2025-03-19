@@ -132,6 +132,9 @@ A definitively good album, that is great in all aspects as previously described.
 * [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (7.7)
     * Top 3: Kumomi, Beat laments the world, Blessing it -remix
 
+* [*From The Private Collection of Saba and No ID*: Saba & No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq?si=9_3rmsTdT9WGud4ltzXpkg) (7.7)
+    * Top 3: How To Impress God, Westside Bound Pt. 4, Breakdown
+
 * [*Donda*: Kanye West](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA?si=c3a51416239044a7) (7.6)
     * Top 3: Jesus Lord, Come To Life, 24
     * Core idea(s): Family; religion; life and death, "The celebration of life is intrinsically tied to the acceptance of loss."
@@ -144,9 +147,16 @@ A definitively good album, that is great in all aspects as previously described.
     * Top 3: Superman That, Knees, Top Picks For You
     * Core idea(s): How the Kübler-Ross model plays out.
 
+* [*Whole Lotta Red*: Playboi Carti](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR?si=40ff7b48d1c841bd) (7.5)
+    * Top 3: Stop Breathing, F33l Lik3 Dyin, Rockstar Made/Control
+    * Core idea(s): How drugs and excess consume and destroy, "the *Yeezus* of trap." 
+
 * [*Windswept Adan*: Ichiko Aoba](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB?si=a1306a4dc72c4b8f) (7.4) 
     * Top 3: Dawn In The Adan, Parfum d'étoile, Porcelain
     * Core idea(s): The soundtrack to an imaginary film, "There were no words on the island."
+
+* [*TAKANAKA*: Masayoshi Takanaka](https://open.spotify.com/album/6yFKbGAkjgnjQjfttbCAkW?si=ndzf8VvcTvqQUkA_PuPv5g) (7.3)
+    * Top 3: I REMEMBER YOU, APRIL WAVE, READY TO FLY
 
 * [*UTOPIA*: Travis Scott](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ?si=8003aef7627645ca) (7.2)
     * Top 3: MODERN JAM, HYAENA, MY EYES
@@ -156,20 +166,17 @@ A definitively good album, that is great in all aspects as previously described.
     * Top 3: One More Hour, Breathe Deeper, Borderline
 
 ## 6: SATISFACTORY
-These albums are middling. They may be great in some aspects but quite lacking in others, thus holding them back from being considered definitively 'good'.
-
-* [*Whole Lotta Red*: Playboi Carti](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR?si=40ff7b48d1c841bd) (6.8)
-    * Top 3: Stop Breathing, F33l Lik3 Dyin, Control
-    * Core idea(s): How drugs and excess consume and destroy, "the *Yeezus* of trap."   
+These albums are middling. They may be great in some aspects but quite lacking in others, thus holding them back from being considered definitively 'good'.  
 
 * [*Because The Internet*: Childish Gambino](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr?si=qw3zGr-dR6CYyQdZczfSPg) (6.5)
     * Top 3: 3005, Telegraph Ave.("Oakland" by Lloyd), Flight of the Navigator
 
+* [*MUSIC*: Playboi Carti](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a?si=u72gXwLwTWm4plsmwfsvVg) (6.3)
+    * Top 3: POP OUT, BACKD00R, I SEEEEEE YOU BABY BOI
+
 ## 5: AVERAGE
 By all measures, these albums are simply average. They aren't terrible at what they seek out to do, but aren't very good at it either.
 
-* [*MUSIC*: Playboi Carti](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a?si=u72gXwLwTWm4plsmwfsvVg) (5.5)
-    * Top 3: BACKD00R, I SEEEEEE YOU BABY BOI, COCAINE NOSE
 
 ## 4: MEDIOCRE
 Falling just below the bar, these albums have more flaws than upsides; flaws that are present enough to weight down these albums in their artistic pursuits.

@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/first-post/</guid>
-      <description>If you thought the nine lines on the front page were interesting.</description>
+      <description>If you thought the front page were interesting.</description>
     </item>
     <item>
       <title>The rankings</title>
@@ -23,11 +23,11 @@
       <description>All of the albums I listened to, or plan to listen to, ranked on my own scale.</description>
     </item>
     <item>
-      <title>Album a Day</title>
+      <title>An Album a Day</title>
       <link>//localhost:1313/posts/album-a-day/</link>
       <pubDate>Thu, 13 Mar 2025 21:41:55 -0400</pubDate>
       <guid>//localhost:1313/posts/album-a-day/</guid>
-      <description></description>
+      <description>My journey through music in 2025.</description>
     </item>
     <item>
       <title>Wickedness or Weakness?</title>
