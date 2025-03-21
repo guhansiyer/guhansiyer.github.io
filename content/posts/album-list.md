@@ -155,6 +155,9 @@ A definitively good album, that is great in all aspects as previously described.
     * Top 3: Dawn In The Adan, Parfum d'étoile, Porcelain
     * Core idea(s): The soundtrack to an imaginary film, "There were no words on the island."
 
+* [*InnerSpeaker*: Tame Impala](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng?si=5YxnSc5LTTi5k8mXuBzKRQ) (7.4)
+    * Top 3: Why Won't You Make Up Your Mind?, I Don't Really Mind, Alter Ego
+
 * [*TAKANAKA*: Masayoshi Takanaka](https://open.spotify.com/album/6yFKbGAkjgnjQjfttbCAkW?si=ndzf8VvcTvqQUkA_PuPv5g) (7.3)
     * Top 3: I REMEMBER YOU, APRIL WAVE, READY TO FLY
 
