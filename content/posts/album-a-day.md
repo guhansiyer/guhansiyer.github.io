@@ -1,5 +1,5 @@
 +++
-title = 'An Album a Day'
+title = 'An album a day'
 date = 2025-03-13T21:41:55-04:00
 draft = false
 summary = "My journey through music in 2025."
@@ -14,4 +14,4 @@ I'll use this post to track what I listen to each month and give a review of wha
 Enjoy the scroll!
 
 # March
-* 17 - 23: *TAKANAKA* - Masayoshi Takanaka, *From The Private Collection of Saba and No ID* - Saba & No ID, *InnerSpeaker* - Tame Impala, *Charm* - Clairo
+* 17 - 23: *TAKANAKA* - Masayoshi Takanaka, *From The Private Collection of Saba and No ID* - Saba & No ID, *InnerSpeaker* - Tame Impala, *Charm* - Clairo, *Lonerism* - Tame Impala

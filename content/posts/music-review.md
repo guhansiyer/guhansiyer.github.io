@@ -9,5 +9,5 @@ I never thought the day would come where I could open Playboi Carti's spotify an
 
 ![still](/images/music-review/I_Am_Music_by_Playboi_Carti.jpg)
 
-It's a little extreme but after how many times Carti pump-faked in the development of *Music*, I thought it was going the way of *Yandhi*. 
+It's a little extreme but after how many times Carti pump-faked in the development of *Music*, I thought it was going the way of *Yandhi*.  
 
