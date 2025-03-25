@@ -14,4 +14,5 @@ I'll use this post to track what I listen to each month and give a review of wha
 Enjoy the scroll!
 
 # March
-* 17 - 23: *TAKANAKA* - Masayoshi Takanaka, *From The Private Collection of Saba and No ID* - Saba & No ID, *InnerSpeaker* - Tame Impala, *Charm* - Clairo, *Lonerism* - Tame Impala
+* 17 - 23: *TAKANAKA* - Masayoshi Takanaka, *From The Private Collection of Saba and No ID* - Saba & No ID, *InnerSpeaker* - Tame Impala, *Charm* - Clairo, *Lonerism* - Tame Impala, *Dare Iz a Darkside* - Redman, *Veteran*: JPEGMAFIA
+* 24 - 30: *Modal Soul*: Nujabes

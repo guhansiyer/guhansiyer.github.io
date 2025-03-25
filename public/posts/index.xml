@@ -23,14 +23,14 @@
       <description>All of the albums I listened to, or plan to listen to, ranked on my own scale.</description>
     </item>
     <item>
-      <title>Music Review</title>
+      <title>Music: a review</title>
       <link>//localhost:1313/posts/music-review/</link>
       <pubDate>Wed, 19 Mar 2025 18:01:59 -0400</pubDate>
       <guid>//localhost:1313/posts/music-review/</guid>
       <description>A review of the third album from Playboi Carti.</description>
     </item>
     <item>
-      <title>An Album a Day</title>
+      <title>An album a day</title>
       <link>//localhost:1313/posts/album-a-day/</link>
       <pubDate>Thu, 13 Mar 2025 21:41:55 -0400</pubDate>
       <guid>//localhost:1313/posts/album-a-day/</guid>
