@@ -2,7 +2,7 @@
 title = 'MUSIC: a review'
 date = 2025-03-19T18:01:59-04:00
 summary = 'A review of the third album from Playboi Carti.'
-draft = false
+draft = true
 +++
 
 > *MUSIC* has finally escaped development hell, but it's hard to tell where exactly the last 4 years have gone to: 4.3/10

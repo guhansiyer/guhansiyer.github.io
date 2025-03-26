@@ -38,44 +38,44 @@ As pieces of art, these albums are nearly immaculate. Their composition is very 
     * Top 3: Self Control, White Ferrari, Pink & White
     * Core idea(s): Duality; "How far have we come and how far can we go?"
 
-* [*IGOR*: Tyler, the Creator](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE?si=b8c602e4ed1448af) (9.2)
-    * Top 3: GONE GONE / THANK YOU, I THINK, WHAT'S GOOD
-    * Core idea(s): The bad ending of the classic love story.
-
 ## 8: EXCELLENT
 Overall great albums. They are strong in a variety of facets such as song selection, lyrics, and production, but are often lacking to a moderate extent in other aspects, which hold it back in a greater way than more exceptional albums.
 
-* [*DAMN.*: Kendrick Lamar](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=8e1e0eaa437446cb) (8.9)
-    * Top 3: XXX, FEAR, DUCKWORTH
-    * Core idea(s): Man vs. supernatural, Kendrick vs. the butterfly effect.
+* [*IGOR*: Tyler, the Creator](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE?si=b8c602e4ed1448af) (8.9)
+    * Top 3: GONE GONE / THANK YOU, I THINK, WHAT'S GOOD
+    * Core idea(s): The bad ending of the classic love story.
 
-* [*ye*: Kanye West](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe?si=4c96176a9c764af6) (8.8)
-    * Top 3: Ghost Town, No Mistakes, Violent Crimes
-    * Core idea(s): Bipolarity and mental health; a child in an adult's body, "We're still the kids we used to be."
-
-* [*Pop 2*: Charli xcx](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC?si=Zb_apE8kQoOprlJLsQzXSQ) (8.7)
+* [*Pop 2*: Charli xcx](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC?si=Zb_apE8kQoOprlJLsQzXSQ) (8.8)
     * Top 3: Backseat, Track 10, Femmebot
     * Core idea(s): Re-inventing the conventions of pop.
 
-* [*To See the Next Part of the Dream*: Parannoul](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO?si=dVvgpYvmTRWcunOtLB3SAQ) (8.7)
-    * Top 3: Beautiful World, White Ceiling, Analog Sentimentalism
-    * Core idea(s): How do we face our shortcomings?; the dichotomy of ideal and reality.
-
-* [*Rodeo*: Travis Scott](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=133c8bec5944456f) (8.7)
-    * Top 3: Nightcrawler, Maria I'm Drunk, Pray 4 Love
-    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive the rodeo?"
+* [*Twin Fantasy (Face to Face)*: Car Seat Headrest](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM?si=TWYOeFJrRFaB31UMrlEPHQ) (8.7)
+    * Top 3: Bodys, My Boy, Beach Life-In-Death
+    * Core idea(s): An exploration of the elusive first love.
 
 * [*Lonerism*: Tame Impala](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?si=a9cdc3413a5d4b15) (8.6)
     * Top 3: Why Won't They Talk To Me?, Endors Toi, Feels Like We Only Go Backwards
     * Core idea(s): Isolation; social anxiety; introversion. 
 
-* [*808s & Heartbreak*: Kanye West](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU?si=3eb995983f1649ed) (8.5)
+* [*DAMN.*: Kendrick Lamar](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=8e1e0eaa437446cb) (8.6)
+    * Top 3: XXX, FEAR, DUCKWORTH
+    * Core idea(s): Man vs. supernatural, Kendrick vs. the butterfly effect.
+
+* [*808s & Heartbreak*: Kanye West](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU?si=3eb995983f1649ed) (8.6)
     * Top 3: Street Lights, Heartless/Love Lockdown, Welcome To Heartbreak
     * Core idea(s): Grief and loss; stasis.
+
+* [*To See the Next Part of the Dream*: Parannoul](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO?si=dVvgpYvmTRWcunOtLB3SAQ) (8.5)
+    * Top 3: Beautiful World, White Ceiling, Analog Sentimentalism
+    * Core idea(s): How do we face our shortcomings?; the dichotomy of ideal and reality.
 
 * [*I LAY DOWN MY LIFE FOR YOU*: JPEGMAFIA](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2?si=d4841223b0954f3b) (8.5)
     * Top 3: either on or off the drugs, don't rely on other men, i recovered from this
     * Core idea(s): Laying a blank slate; reconciling with yourself.
+
+* [*ye*: Kanye West](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe?si=4c96176a9c764af6) (8.5)
+    * Top 3: Ghost Town, No Mistakes, Violent Crimes
+    * Core idea(s): Bipolarity and mental health; a child in an adult's body, "We're still the kids we used to be."
 
 * [*My Beautiful Dark Twisted Fantasy*: Kanye West](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv?si=af694557e66e483a) (8.4)
     * Top 3: Runaway, POWER, Lost In The World
@@ -91,6 +91,10 @@ Overall great albums. They are strong in a variety of facets such as song select
 * [*Time 'n' Place*: Kero Kero Bonito](https://open.spotify.com/album/1FcfrAYuA1X4gXEfLNW7AB?si=8c2b3896ab8a482d) (8.3)
     * Top 3: Only Acting, Swimming, Dear Future Self
     * Core idea(s): Ideal vs. reality; "Life isn't what you built it up to be."
+
+* [*Rodeo*: Travis Scott](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=133c8bec5944456f) (8.3)
+    * Top 3: Nightcrawler, Maria I'm Drunk, Pray 4 Love
+    * Core idea(s): The 'rodeo' of life, "Will he make it? / Was it worth it? / Did he win? / Will he survive the rodeo?"
 
 * [*BRAT*: Charli xcx](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=r8Y3ftXHTx-lF03_-IQe6w) (8.2)
     * Top 3: Sympathy is a knife, Everything is romantic, Von dutch
