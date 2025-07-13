@@ -23,7 +23,7 @@
       <description>All of the albums I listened to, or plan to listen to, ranked on my own scale.</description>
     </item>
     <item>
-      <title>Music: a review</title>
+      <title>MUSIC: a review</title>
       <link>//localhost:1313/posts/music-review/</link>
       <pubDate>Wed, 19 Mar 2025 18:01:59 -0400</pubDate>
       <guid>//localhost:1313/posts/music-review/</guid>
@@ -35,13 +35,6 @@
       <pubDate>Thu, 13 Mar 2025 21:41:55 -0400</pubDate>
       <guid>//localhost:1313/posts/album-a-day/</guid>
       <description>My journey through music in 2025.</description>
-    </item>
-    <item>
-      <title>Wickedness or Weakness?</title>
-      <link>//localhost:1313/posts/damn/</link>
-      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/damn/</guid>
-      <description>An analysis of DAMN; the 4th studio album from Kendrick Lamar.</description>
     </item>
     <item>
       <title>Two songs</title>

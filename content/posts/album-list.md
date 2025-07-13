@@ -51,7 +51,7 @@ Overall great albums. They are strong in a variety of facets such as song select
 
 * [*Twin Fantasy (Face to Face)*: Car Seat Headrest](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM?si=TWYOeFJrRFaB31UMrlEPHQ) (8.7)
     * Top 3: Bodys, My Boy, Beach Life-In-Death
-    * Core idea(s): An exploration of the elusive first love.
+    * Core idea(s): An exploration of the eluzsive first love.
 
 * [*Lonerism*: Tame Impala](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?si=a9cdc3413a5d4b15) (8.6)
     * Top 3: Why Won't They Talk To Me?, Endors Toi, Feels Like We Only Go Backwards
@@ -72,6 +72,9 @@ Overall great albums. They are strong in a variety of facets such as song select
 * [*I LAY DOWN MY LIFE FOR YOU*: JPEGMAFIA](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2?si=d4841223b0954f3b) (8.5)
     * Top 3: either on or off the drugs, don't rely on other men, i recovered from this
     * Core idea(s): Laying a blank slate; reconciling with yourself.
+
+* [*how i'm feeling now*: Charli xcx](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu?si=j5_tf5y8SIuFjYcpjIQPjg) (8.5)
+    * Top 3: anthems, forever, detonate
 
 * [*ye*: Kanye West](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe?si=4c96176a9c764af6) (8.5)
     * Top 3: Ghost Town, No Mistakes, Violent Crimes
@@ -116,7 +119,8 @@ A definitively good album, that is great in all aspects as previously described.
     * Core idea(s): Change, "Yes, I'm older, yes, I'm moving on"
 
 * [*A Brief Inquiry Into Online Relationships*: The 1975](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY?si=ca291f8cd9024144) (7.9)
-    * Top 3: Love It If We Made It, It's Not Living (If It's Not With You), I Always Wanna Die (Sometimes)
+    * Top 3: Love It If We Made It, Give Yourself A Try, It's Not Living (If It's Not With You)
+    * Core idea(s): The "new world" of the information age.
 
 * [*Blue Rev*: Alvvays](https://open.spotify.com/album/2uG2lAc731VgdGtFNI8fRV?si=dbfed537aaa14f42) (7.9)
     * Top 3: Easy On Your Own?, Belinda Says, Bored In Bristol
