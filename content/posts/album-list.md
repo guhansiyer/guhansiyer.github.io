@@ -49,9 +49,13 @@ Overall great albums. They are strong in a variety of facets such as song select
     * Top 3: Backseat, Track 10, Femmebot
     * Core idea(s): Re-inventing the conventions of pop.
 
+* [*Revengeseekerz*: Jane Remover](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON?si=d97b8534e80d42d0) (8.8)
+    * Top 3: JRJRJR, Dreamflasher, TWICE REMOVED
+    * Core idea(s): Self-reflection, identity and psyche in the face of fame.
+
 * [*Twin Fantasy (Face to Face)*: Car Seat Headrest](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM?si=TWYOeFJrRFaB31UMrlEPHQ) (8.7)
     * Top 3: Bodys, My Boy, Beach Life-In-Death
-    * Core idea(s): An exploration of the eluzsive first love.
+    * Core idea(s): An exploration of the elusive first love.
 
 * [*Lonerism*: Tame Impala](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?si=a9cdc3413a5d4b15) (8.6)
     * Top 3: Why Won't They Talk To Me?, Endors Toi, Feels Like We Only Go Backwards
@@ -134,8 +138,12 @@ A definitively good album, that is great in all aspects as previously described.
     * Top 3: Girl so confusing featuring lorde, Sympathy is a knife featuring ariana grande, Mean girls featuring julian casablancas
     * Core idea(s): A reflection on *BRAT*; the isolation of fame.
 
-* [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (7.7)
+* [*Metaphorical Music*: Nujabes](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637?si=284b605e89e644d2) (7.8)
     * Top 3: Kumomi, Beat laments the world, Blessing it -remix
+
+* [*DON'T TAP THE GLASS*: Tyler, The Creator](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R?si=72a688218f8a43d3) (7.7)
+    * Top 3: Sucka Free, Don't Tap That Glass / Tweakin', Big Poe
+    * Core idea(s): Living in the moment, embracing self-expression.
 
 * [*From The Private Collection of Saba and No ID*: Saba & No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq?si=9_3rmsTdT9WGud4ltzXpkg) (7.7)
     * Top 3: How To Impress God, Westside Bound Pt. 4, Breakdown
@@ -143,6 +151,9 @@ A definitively good album, that is great in all aspects as previously described.
 * [*House Of Balloons*: The Weeknd](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd?si=74bb0342e4c040e7) (7.7)
     * Top 3: House of Balloons / Glass Table Girls, The Morning, High For This
     * Core idea(s): Lust; over-indulgence.
+
+* [*Lord Willin'*: Clipse](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX?si=e0fe6f76d1244f87) (7.7)
+    * Top 3: Virginia, Grindin', Ego
 
 * [*Donda*: Kanye West](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA?si=c3a51416239044a7) (7.6)
     * Top 3: Jesus Lord, Come To Life, 24
