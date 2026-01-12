@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Content: >
-     - Hello. I'm a third year computer engineering student at the University of Waterloo. Currently, I'm at Nokia working on the firmware and SDK for next generation optical transceivers.
+     - Hello. I'm a third year computer engineering student at the University of Waterloo. Last fall, I was at Nokia, working on the firmware and SDK for next generation optical transceivers.
 
      -
      
@@ -34,6 +34,6 @@ menu:
   main:
     - identifier: resume
       name: resume
-      url: /resume-website.pdf
-      weight: "20"
+      url: "https://github.com/guhansiyer/resume/blob/main/output/GI_Resume.pdf"
+      pre: <i class='fa-brands fa-github'></i>
      

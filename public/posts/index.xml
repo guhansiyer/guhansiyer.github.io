@@ -30,13 +30,6 @@
       <description>A review of the third album from Playboi Carti.</description>
     </item>
     <item>
-      <title>An album a day</title>
-      <link>//localhost:1313/posts/album-a-day/</link>
-      <pubDate>Thu, 13 Mar 2025 21:41:55 -0400</pubDate>
-      <guid>//localhost:1313/posts/album-a-day/</guid>
-      <description>My journey through music in 2025.</description>
-    </item>
-    <item>
       <title>Two songs</title>
       <link>//localhost:1313/posts/mm-ending/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>

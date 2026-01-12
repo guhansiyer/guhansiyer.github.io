@@ -92,6 +92,9 @@ Overall great albums. They are strong in a variety of facets such as song select
     * Top 3: Sing About Me, I'm Dying Of Thirst, Swimming Pools (Drank), m.A.A.d city
     * Core idea(s): Man vs. world, Kendrick vs. the chaos of Compton.
 
+* [*Let God Sort Em Out*: Clipse](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ?si=9c2d623dd45d455c) (8.4)
+    * Top 3: So Be It, E.B.I.T.D.A., Let God Sort Em Out/Chandeliers
+
 * [*E•MO•TION*: Carly Rae Jepsen](https://open.spotify.com/album/0b92PAnqF1qa5fdbAu5ma7?si=eM4mUf4RQS-hsDoyY0NIOg) (8.4)
     * Top 3: Run Away With Me, Your Type, All That
 

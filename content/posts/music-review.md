@@ -9,7 +9,7 @@ draft = true
 
 ![still](/images/music-review/Playboi-Carti-MUSIC.webp#center)
 
-Let me be clear: I thought the day that I could open Spotify and see a new album from Playboi Carti was still far away, if not never coming. I was convinced *MUSIC* became one of the great mythologies in hip-hop, like *Detox*, *Yandhi*, or anything from Frank Ocean.
+I thought the day that I could open Spotify and see a new album from Playboi Carti was still far away, if not never coming. I was convinced *MUSIC* became one of the great mythologies in hip-hop, like *Detox*, *Yandhi*, or anything from Frank Ocean.
 
 If you're unfamilar with Carti and his antics, let's go over how we got here.
 
@@ -17,6 +17,6 @@ In September 2021, Carti failed to drop his planned 3rd album *Narcissist*. The 
 
 But then it all happened so fast. In one week we had a release date and classic Carti antics: fit pics, incessant Instagram stories, and an unfathomable rebuild of hype. It was almost unbecoming after all that happened over the last 3 years. But as much as things change, they also stay the same, and he was late to the Friday release date by seven hours. Regardless, I woke up on March 14th to see a new Playboi Carti album.
 
-*MUSIC* is a difficult album-difficult in many contexts. It's a massive mesh of everything that makes up Carti. The tracklist is a blitz of beats from noted collaborators, including F1lthy, Cardo and Ojivolta. There's elements of Kanye's grandiosity, classic Future-style toxicity and moral corruptness, and of course, the ever-prescence of Lil Wayne. The Wayne tributes are strong on *MUSIC*, most evidently in the working title of *I AM MUSIC*, but also in the album format. The presentation is much more akin to a *Wayne* style mixtape than that of a standard LP, all complete with the narration of DJ Swamp Izzo.
+*MUSIC* is a difficult album-difficult in many contexts. It's a massive mesh of everything that makes up Carti. The tracklist is a blitz of beats from noted collaborators, including F1lthy, Cardo and Ojivolta. There's elements of Kanye's grandiosity, classic Future-style toxicity and moral corruptness, and of course, the ever-prescence of Lil Wayne. The Wayne tributes are strong on *MUSIC*, most evidently in the working title of *I AM MUSIC*, but also in the album format. The presentation is much more akin to a Wayne style mixtape than that of a standard LP, all complete with the narration of DJ Swamp Izzo.
 
-This execution doesn't come flawless, however. E
+This execution doesn't come flawless, however. The biggest problem with *MUSIC* is that it's hard to tell exactly where the last 4 years have gone. When you delay a project to such an extent as Carti has done, there should be no surprise when expectations rise to an un-matchable level. At the least, the product should feel complete–there should be no "filler" or a sense that some tracks left Ableton too early. But almost immediately, with *CRUSH*–the first of many Travis Scott collabs–
