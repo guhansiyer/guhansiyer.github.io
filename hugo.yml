@@ -6,11 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Content: >
-     - Hello. I'm a third year computer engineering student at the University of Waterloo. Last fall, I was at Nokia, working on the firmware and SDK for next generation optical transceivers.
-
-     -
-     
-     - I'm primarily interested in systems programming and operating systems. In the past I've worked with embedded systems and digital design.
+     - Hello. I'm a third year computer engineering student at the University of Waterloo. I'm primarily interested in systems programming and operating systems.
 
      -
 
@@ -32,8 +28,8 @@ params:
 
 menu:
   main:
-    - identifier: resume
-      name: resume
-      url: "https://github.com/guhansiyer/resume/blob/main/output/GI_Resume.pdf"
+    - identifier: Resume
+      name: Resume
+      url: "https://github.com/guhansiyer/resume/blob/main/GI_Resume.pdf"
       pre: <i class='fa-brands fa-github'></i>
      
